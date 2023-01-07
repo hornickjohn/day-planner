@@ -57,3 +57,8 @@ textarea {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
 }
+
+/* highlight save button for a row whose text has been changed */
+.unsavedButton {
+  box-shadow: 0 0 5px 5px red;
+}
